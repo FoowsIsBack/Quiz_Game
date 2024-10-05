@@ -1,5 +1,6 @@
 # Quiz_Game
-![image](https://github.com/user-attachments/assets/56d99ae6-bf98-412f-b559-0548083f79e7)
+![image](https://github.com/user-attachments/assets/117c41ae-9159-475a-bd24-40916268b799)
+
 
 # Run code
 ```sh
