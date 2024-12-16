@@ -30,7 +30,7 @@ while True:
         print("Invalid input!")
         print("----------------------")
         quit()
-#Question
+
     question = {
         "1. Who developed Python programming language?: ": "guido van rossum",
         "2. Who developed in HTML?: ": "tim berners lee",
@@ -38,7 +38,6 @@ while True:
         "4. Who developed C++ programming language?: ": "bjarne stroustrup",
         "5. Who developed in javascript?: ": "brendan eich"
     }
-#Question
     score = 0
 
     for question, correct_answer in question.items():
