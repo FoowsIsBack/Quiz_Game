@@ -5,5 +5,5 @@
 ```sh
 git clone https://github.com/FoowsIsBack/Quiz_Game.git
 cd Quiz_Game
-python3 Quiz.Game.py
+python3 quiz.py
 ```
